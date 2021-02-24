@@ -1,0 +1,22 @@
+{
+  "name": "ifra-iot-device-simulator",
+  "version": "1.0.0",
+  "description": "IFRA IoT IoT Device Simulator ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nattaponra/ifra-iot-device-simulator.git"
+  },
+  "keywords": [
+    "iot"
+  ],
+  "author": "IFRASOFT CO., LTD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nattaponra/ifra-iot-device-simulator/issues"
+  },
+  "homepage": "https://github.com/nattaponra/ifra-iot-device-simulator#readme"
+}

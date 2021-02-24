@@ -7,6 +7,7 @@ const MQTT_PASSWORD = "<password>";     // example: 0e3ccc6d-edb1-4e32-a049-3ee3
 const TOPIC = "<topic>"                 // example: organization/a369f4b8-77bc-4b88-8e38-24cae2a33340/messages
 const MEASUREMENT_NAME = "<measurement name>"  // example: measurement
 const UNIT = "<unit>"                   // example: %
+
 // Connect MQTT
 var client = mqtt.connect({
     host: MQTT_SERVER,
