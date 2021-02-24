@@ -1,13 +1,12 @@
-# IFRA MQTT NODEJS
+# IFRA IoT Device Simulator 
 
-IFRA MQTT Nodejs test is a library for simulate data send  to ifra platform  http://iot.ifra.io.
+This is example script for IoT device simuration with communication on MQTT protocol.
 
 ## Installation
 
-Use the package manager [MqttJS](https://www.npmjs.com/package/mqtt) to install.
-
+Install javascript dependencies
 ```bash
-npm install mqtt --save
+npm install 
 ```
 
 ## Usage
